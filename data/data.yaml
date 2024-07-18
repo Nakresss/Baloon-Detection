@@ -1,0 +1,21 @@
+names:
+- beyaz-balon
+- gri-balon
+- kirmizi-balon
+- mavi-balon
+- mor-balon
+- pembe-balon
+- sari-balon
+- siyah-balon
+- turuncu-balon
+- yesil-balon
+nc: 10
+roboflow:
+  license: MIT
+  project: baloon-detection-olq38
+  url: https://universe.roboflow.com/baloon-f12iq/baloon-detection-olq38/dataset/2
+  version: 2
+  workspace: baloon-f12iq
+test: ../test/images
+train: Baloon-Detection-2/train/images
+val: Baloon-Detection-2/valid/images
